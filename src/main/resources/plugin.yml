@@ -1,0 +1,16 @@
+name: SuperChest
+author: aufdemrand
+version: 1.0
+main: net.aufdemrand.superchest.SuperChest
+softdepend:
+- Denizen
+
+permissions:
+  superchest.admin:
+    description: Gives administrator rights to the admin
+
+commands:
+  schest:
+    description: Lists SuperChest commands.
+    usage: /schest help
+    permission: superchest.admin

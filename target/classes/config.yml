@@ -1,0 +1,21 @@
+# Global SuperChest Settings
+
+Default loot:
+    - 20% Monster Loot
+    - 80% Generic Loot
+
+Default animations:
+    Default super chest: ENDER_SIGNAL
+    Default monster chest: SMOKE
+
+Default sounds:
+    Default on loot: CHEST_OPEN
+    Default on monster loot: ENDERMAN_SCREAM
+    Default max loots: CHEST_CLOSE
+
+Default options:
+    Default respawn rate: 30m
+    Default max loots: 5
+    Default max loots message: "There's nothing left to loot here!"
+    Default loot message: "Sweet! Some loot!"
+    Default monster loot message: "Oh no! Trouble!"

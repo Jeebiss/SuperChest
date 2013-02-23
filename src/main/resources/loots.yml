@@ -1,0 +1,115 @@
+# Loots
+
+loots:
+  SUPER LOOT:
+    '1':
+      ==: org.bukkit.inventory.ItemStack
+      type: BREAD
+    '3':
+      ==: org.bukkit.inventory.ItemStack
+      type: BREAD
+    '4':
+      ==: org.bukkit.inventory.ItemStack
+      type: BREAD
+    '5':
+      ==: org.bukkit.inventory.ItemStack
+      type: BREAD
+    '7':
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLD_INGOT
+    '10':
+      ==: org.bukkit.inventory.ItemStack
+      type: BREAD
+    '11':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND
+    '12':
+      ==: org.bukkit.inventory.ItemStack
+      type: BREAD
+    '13':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND
+    '14':
+      ==: org.bukkit.inventory.ItemStack
+      type: BREAD
+    '15':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND
+    '16':
+      ==: org.bukkit.inventory.ItemStack
+      type: BREAD
+    '19':
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLD_INGOT
+    '20':
+      ==: org.bukkit.inventory.ItemStack
+      type: BREAD
+    '21':
+      ==: org.bukkit.inventory.ItemStack
+      type: BREAD
+    '23':
+      ==: org.bukkit.inventory.ItemStack
+      type: BREAD
+    '24':
+      ==: org.bukkit.inventory.ItemStack
+      type: BREAD
+    '25':
+      ==: org.bukkit.inventory.ItemStack
+      type: BREAD
+    '2':
+      ==: org.bukkit.inventory.ItemStack
+      type: IRON_INGOT
+      amount: 6
+    '6':
+      ==: org.bukkit.inventory.ItemStack
+      type: IRON_INGOT
+      amount: 6
+    '9':
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLD_INGOT
+    '17':
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLD_INGOT
+    '22':
+      ==: org.bukkit.inventory.ItemStack
+      type: IRON_INGOT
+      amount: 6
+  MONSTER LOOT:
+    '13':
+      ==: org.bukkit.inventory.ItemStack
+      type: MONSTER_EGG
+      damage: 54
+  GENERIC LOOT:
+    '4':
+      ==: org.bukkit.inventory.ItemStack
+      type: BREAD
+    '10':
+      ==: org.bukkit.inventory.ItemStack
+      type: BONE
+      amount: 6
+    '12':
+      ==: org.bukkit.inventory.ItemStack
+      type: BREAD
+      amount: 3
+    '13':
+      ==: org.bukkit.inventory.ItemStack
+      type: BREAD
+    '14':
+      ==: org.bukkit.inventory.ItemStack
+      type: BREAD
+      amount: 3
+    '16':
+      ==: org.bukkit.inventory.ItemStack
+      type: EXP_BOTTLE
+    '17':
+      ==: org.bukkit.inventory.ItemStack
+      type: PAPER
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: A ratted piece of paper
+        lore:
+        - '[worthless]'
+    '22':
+      ==: org.bukkit.inventory.ItemStack
+      type: BREAD

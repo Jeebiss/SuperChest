@@ -1,0 +1,11 @@
+'EXAMPLE SUPER CHEST':
+  LOOTS:
+  - 5%Superloot
+  - 65%genericloot
+  - 30%monsterloot
+  OPTIONS:
+    RESPAWN RATE: 60s
+    MAX LOOTS: 5
+    MAX LOOTS MESSAGE: "There's nothing left to loot here!"
+    MONSTER LOOT MESSAGE: "Oh no! Trouble!"
+    LOOT MESSAGE: "Sweet! Some loot!"
